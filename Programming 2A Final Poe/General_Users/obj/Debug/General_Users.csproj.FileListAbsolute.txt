@@ -1,0 +1,6 @@
+E:\Programming 2A Final Poe\General_Users\bin\General_Users.dll.config
+E:\Programming 2A Final Poe\General_Users\bin\General_Users.dll
+E:\Programming 2A Final Poe\General_Users\bin\General_Users.pdb
+E:\Programming 2A Final Poe\General_Users\obj\Debug\General_Users.csprojAssemblyReference.cache
+E:\Programming 2A Final Poe\General_Users\obj\Debug\General_Users.dll
+E:\Programming 2A Final Poe\General_Users\obj\Debug\General_Users.pdb

@@ -1,0 +1,47 @@
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\bin\Debug\Weather_Information.mdf
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\bin\Debug\Weather_Information_log.ldf
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe.config
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.pdb
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csprojAssemblyReference.cache
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Capturing_Data_Page.resources
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.frm_LogIn.resources
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Properties.Resources.resources
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.ViewAndEdit.resources
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csproj.GenerateResource.cache
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csproj.CoreCompileInputs.cache
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.exe
+D:\School Things\Programming 2A\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.pdb
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe.config
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.pdb
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csprojAssemblyReference.cache
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Capturing_Data_Page.resources
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.frm_LogIn.resources
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Properties.Resources.resources
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.ViewAndEdit.resources
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csproj.GenerateResource.cache
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.exe
+C:\Users\19009953\Downloads\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.pdb
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe.config
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.pdb
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csprojAssemblyReference.cache
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Capturing_Data_Page.resources
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.frm_LogIn.resources
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Properties.Resources.resources
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.ViewAndEdit.resources
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csproj.GenerateResource.cache
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.exe
+C:\Users\19009953\Documents\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.pdb
+E:\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe.config
+E:\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.exe
+E:\Programming 2A Final Poe\Admin_Weather\bin\Debug\Admin_Weather.pdb
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csprojAssemblyReference.cache
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Capturing_Data_Page.resources
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.frm_LogIn.resources
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.Properties.Resources.resources
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.ViewAndEdit.resources
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.csproj.GenerateResource.cache
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.exe
+E:\Programming 2A Final Poe\Admin_Weather\obj\Debug\Admin_Weather.pdb
